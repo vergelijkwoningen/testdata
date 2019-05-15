@@ -12,54 +12,63 @@
         "pt":"210.000",
         "wov":"90",
         "wot":"110"
+      }
     },
-    "info":{
-      "provincie":"Brabant",
-      "gemeente":"Den Bosch",
-      "plaats":"Den Bosch",
-      "wijk":"hintham",
-      "pc":"2326",
-      "adr":"goudenregenstraat 84",
-      "pv":"320.000",
-      "pt":"320.000",
-      "wov":"120",
-      "wot":"134"
+    {
+      "info":{
+        "provincie":"Brabant",
+        "gemeente":"Den Bosch",
+        "plaats":"Den Bosch",
+        "wijk":"hintham",
+        "pc":"2326",
+        "adr":"goudenregenstraat 84",
+        "pv":"320.000",
+        "pt":"320.000",
+        "wov":"120",
+        "wot":"134"
+      }
     },
-        "info":{
-      "provincie":"Gelderland",
-      "gemeente":"Ede",
-      "plaats":"Ede",
-      "wijk":"Kernhem",
-      "pc":"6835",
-      "adr":"Ketelplein 66a",
-      "pv":"385.500",
-      "pt":"400.000",
-      "wov":"120",
-      "wot":"140"
+    {
+      "info":{
+        "provincie":"Gelderland",
+        "gemeente":"Ede",
+        "plaats":"Ede",
+        "wijk":"Kernhem",
+        "pc":"6835",
+        "adr":"Ketelplein 66a",
+        "pv":"385.500",
+        "pt":"400.000",
+        "wov":"120",
+        "wot":"140"
+      }
     },
-        "info":{
-      "provincie":"Utrecht",
-      "gemeente":"Amersfoort",
-      "plaats":"Amersfoort",
-      "wijk":"centrum",
-      "pc":"9797",
-      "adr":"Julianastraat 3",
-      "pv":"550.000",
-      "pt":"560.000",
-      "wov":"90",
-      "wot":"95"
+    {
+      "info":{
+        "provincie":"Utrecht",
+        "gemeente":"Amersfoort",
+        "plaats":"Amersfoort",
+        "wijk":"centrum",
+        "pc":"9797",
+        "adr":"Julianastraat 3",
+        "pv":"550.000",
+        "pt":"560.000",
+        "wov":"90",
+        "wot":"95"
+      }
     },
-    "info":{
-      "provincie":"Utrecht",
-      "gemeente":"Amersfoort",
-      "plaats":"Amersfoort",
-      "wijk":"centrum",
-      "pc":"9797",
-      "adr":"Julianastraat 7",
-      "pv":"580.000",
-      "pt":"580.000",
-      "wov":"90",
-      "wot":"95"
+    {
+      "info":{
+        "provincie":"Utrecht",
+        "gemeente":"Amersfoort",
+        "plaats":"Amersfoort",
+        "wijk":"centrum",
+        "pc":"9797",
+        "adr":"Julianastraat 7",
+        "pv":"580.000",
+        "pt":"580.000",
+        "wov":"90",
+        "wot":"95"
+      }
     }
   ]
 }
