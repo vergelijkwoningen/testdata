@@ -1,17 +1,17 @@
 {
   "koop":[
     {
-    "info":{
-      "provincie":"Brabant",
-      "gemeente":"Den Bosch",
-      "plaats":"Haarsteeg",
-      "wijk":"de kade",
-      "pc":"2324",
-      "adr":"de hoeve 5",
-      "pv":"190.000",
-      "pt":"210.000",
-      "wov":"90",
-      "wot":"110"
+      "info":{
+        "provincie":"Brabant",
+        "gemeente":"Den Bosch",
+        "plaats":"Haarsteeg",
+        "wijk":"de kade",
+        "pc":"2324",
+        "adr":"de hoeve 5",
+        "pv":"190.000",
+        "pt":"210.000",
+        "wov":"90",
+        "wot":"110"
     },
     "info":{
       "provincie":"Brabant",
@@ -61,5 +61,5 @@
       "wov":"90",
       "wot":"95"
     }
-  }
+  ]
 }
